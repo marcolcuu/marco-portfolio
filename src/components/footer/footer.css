@@ -47,9 +47,8 @@
   background-color: var(--title-color-dark);
 }
 
-.footer-copy {
+.footer_copy {
   display: block;
-  justify-content: center;
   margin-top: 4.5rem;
   color: var(--title-color);
   text-align: center;
